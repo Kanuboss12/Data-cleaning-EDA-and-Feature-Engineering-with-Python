@@ -8,7 +8,7 @@
 
 2️⃣ 𝗗𝗮𝘁𝗮 𝗖𝗹𝗲𝗮𝗻𝗶𝗻𝗴:- No missing value in the dataset and Dropped 240 Duplicate records from data set.
 
-3️⃣ 𝗘𝗗𝗔  
+3️⃣ 𝗘𝗗𝗔:-  
 
 ➡ 𝗦𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝗮𝗹 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀:- 6 different types of red wines available depending on the Quality ranging from 3 to 8, with average of 5.64. 
 
