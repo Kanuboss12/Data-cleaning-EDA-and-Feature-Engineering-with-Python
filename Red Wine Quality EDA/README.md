@@ -1,6 +1,6 @@
 # 𝙀𝙭𝙥𝙡𝙤𝙧𝙖𝙩𝙤𝙧𝙮 𝘿𝙖𝙩𝙖 𝘼𝙣𝙖𝙡𝙮𝙨𝙞𝙨 𝙤𝙛 𝙍𝙚𝙙 𝙬𝙞𝙣𝙚 𝘿𝙖𝙩𝙖𝙨𝙚𝙩 𝙪𝙨𝙞𝙣𝙜 𝙋𝙮𝙩𝙝𝙤𝙣 
 
-### 🎯Project focused on Evaluating the Quality of Red Wine Based on its Chemical Properties and sensory attribute (Quality). 
+### 🎯Project Focused on Evaluating the Quality of Red Wine Based on its Chemical Properties and Sensory Attribute (Quality). 
 
 ### 📖 Steps Involved:-
 
@@ -12,7 +12,7 @@
 
 ➡ 𝗦𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝗮𝗹 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀:- 6 different types of red wines available depending on the Quality ranging from 3 to 8, with average of 5.64. 
 
-➡ 𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻 𝘂𝘀𝗶𝗻𝗴 𝗠𝗮𝘁𝗽𝗹𝗼𝘁𝗹𝗶𝗯 𝗮𝗻𝗱 𝗦𝗲𝗮𝗯𝗼𝗿𝗻:- Key relationship between input variables and Wine Quality. Identified Outliers. 
+➡ 𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻 𝘂𝘀𝗶𝗻𝗴 𝗠𝗮𝘁𝗽𝗹𝗼𝘁𝗹𝗶𝗯 𝗮𝗻𝗱 𝗦𝗲𝗮𝗯𝗼𝗿𝗻:- Key relationship between input variables and Wine Quality. Identified Outliers. Vizualization are as Follow:-
 
 A) 𝗖𝗼𝗿𝗿𝗲𝗹𝗮𝘁𝗶𝗼𝗻 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀 with 𝗛𝗲𝗮𝘁 𝗠𝗮𝗽:- Fixed Acidity, Citric acid, and Alcohol are Positively correlated with quality while Volatile acidity, Free sulfur dioxide, and pH have negative impact. 
 
