@@ -2,7 +2,7 @@
 
 ### 🎯Project focused on Evaluating the Quality of Red Wine Based on its Chemical Properties and sensory attribute (Quality). 
 
-### Steps Involved:-
+### 📖 Steps Involved:-
 
 1️⃣ 𝗗𝗮𝘁𝗮 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄:- The dataset related to red variants of the Portuguese "Vinho Verde" wine obtained from Kaggle. With 1599 samples of red wine with 11 input and 1 output feature. Higher value, better the wine. Imported dataset in Python using Pandas. 
 
