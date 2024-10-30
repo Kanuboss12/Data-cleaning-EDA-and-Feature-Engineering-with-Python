@@ -1,6 +1,6 @@
 # 𝙀𝙭𝙥𝙡𝙤𝙧𝙖𝙩𝙤𝙧𝙮 𝘿𝙖𝙩𝙖 𝘼𝙣𝙖𝙡𝙮𝙨𝙞𝙨 𝙤𝙛 𝙍𝙚𝙙 𝙬𝙞𝙣𝙚 𝘿𝙖𝙩𝙖𝙨𝙚𝙩 𝙪𝙨𝙞𝙣𝙜 𝙋𝙮𝙩𝙝𝙤𝙣 
 
-## Goals:- Project focused on Evaluating the Quality of Red Wine Based on its Chemical Properties and sensory attribute (Quality). 
+### Project focused on Evaluating the Quality of Red Wine Based on its Chemical Properties and sensory attribute (Quality). 
 
 ### Steps Involved:-
 
