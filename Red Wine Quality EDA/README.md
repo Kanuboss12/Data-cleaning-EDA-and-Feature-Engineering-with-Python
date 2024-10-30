@@ -1,6 +1,6 @@
 # 𝙀𝙭𝙥𝙡𝙤𝙧𝙖𝙩𝙤𝙧𝙮 𝘿𝙖𝙩𝙖 𝘼𝙣𝙖𝙡𝙮𝙨𝙞𝙨 𝙤𝙛 𝙍𝙚𝙙 𝙬𝙞𝙣𝙚 𝘿𝙖𝙩𝙖𝙨𝙚𝙩 𝙪𝙨𝙞𝙣𝙜 𝙋𝙮𝙩𝙝𝙤𝙣 
 
-### Project focused on Evaluating the Quality of Red Wine Based on its Chemical Properties and sensory attribute (Quality). 
+### 🎯Project focused on Evaluating the Quality of Red Wine Based on its Chemical Properties and sensory attribute (Quality). 
 
 ### Steps Involved:-
 
@@ -26,7 +26,7 @@ E) 𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝗶𝗰𝗮𝗹 𝗣𝗹𝗼𝘁:- Boxplot Shows
 
 F) 𝗦𝗰𝗮𝘁𝘁𝗲𝗿𝗽𝗹𝗼𝘁:- Shows the relationship between alcohol content and pH in wine samples, with color indicating quality ratings. Lower pH means higher acidity, with values mostly between 3.0 and 3.6, and alcohol content between 9% and 14%. Higher-quality wines (darker points) are more scattered across these ranges.
 
-### 📖 Tools Used: Pandas, Matplotlib, and Seaborn
+#### 📖 Tools Used: Pandas, Matplotlib, and Seaborn
 
-### 📖 𝗙𝘂𝗿𝘁𝗵𝗲𝗿 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀: These insights set stage for machine learning models that try to predict wine quality. 
+#### 📖 𝗙𝘂𝗿𝘁𝗵𝗲𝗿 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀: These insights set stage for machine learning models that try to predict wine quality. 
 
